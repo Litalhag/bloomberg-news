@@ -270,7 +270,7 @@ h2 {
 
 /* main */
 #main {
-  height: 100vh;
+  height: 118vh;
   max-width: 136vw;
   background: var(--light-color);
   display: flex;
@@ -280,7 +280,7 @@ h2 {
 .cover {
   background: var(--light-color);
   border: var(--grey-color) 1px solid;
-  height: 100vh;
+  height: 118vh;
   max-width: 1100vw;
   /* margin: 0 21rem; */
   /* overflow: hidden; */
